@@ -29,7 +29,7 @@ const HomePage = async () => {
 
           <div className="actual-top-content">
             <h1>Find Your New Bestie</h1>
-            <p className="intro-text">The most amazing list of adoptable pets at your fingertips. Updated fresh daily!</p>
+            <p className="intro-text">The most amazing list of adoptable pets at your fingertips. See for yourself. Updated fresh daily!</p>
             <div className="intro-buttons">
               <Link href="#view-pets" className="our-btn utility-mr">View Pets</Link>
               <Link href="/admin" className="our-btn our-btn--outline">Manage Pets</Link>
